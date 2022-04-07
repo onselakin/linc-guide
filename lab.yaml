@@ -1,14 +1,14 @@
 version: 0.1
 id: linc-guide
 tags: linc
-title: LinC Lab Authoring Guide
+title: Virtual Lab Authoring Guide
 description: This guide teaches you how to create virtual labs for LinC
 difficulty: easy
 estimatedTime: 3 hours
-coverImage: https://thumbs.dreamstime.com/b/blogging-blogger-freelance-creative-writing-copy-writer-people-vector-illustration-flat-cartoon-character-graphic-design-blogging-138619984.jpg
+coverImage: lab.jpeg
 author:
   name: Onsel Akin
-  photo: https://media-exp1.licdn.com/dms/image/C4D03AQHh9OCoGdIBsw/profile-displayphoto-shrink_800_800/0/1601443979395?e=1654732800&v=beta&t=9wAoR2FK76vXt58g_LKDR3cnvJWrMCCJma7MDD4GscM
+  photo: author.jpg
   bio: |
     Experienced software architect / designer with a demonstrated history of working in the computer software industry for almost two decades.
     Specialties include but not limited to ;-) ==> Domain-Driven Design, Event Storming.

@@ -1,6 +1,4 @@
-# Welcome
-
-## What is Linc?
+# What is Linc?
 
 LinC is a desktop application that lets you learn a lot of cool stuff by running virtual labs created by members of the software community.
 
