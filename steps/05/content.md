@@ -19,7 +19,7 @@ Here's a sample configuration for a text-only step:
 ```yaml
 title: Lab Folder Structure
 layout:
-  type: markdown
+  type: basic
 ```
 
 ## Steps with integrated terminals
